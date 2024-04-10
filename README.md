@@ -47,4 +47,4 @@
 ~ event_category — тип действия;
 ~ event_action — действие;
 ~ event_label — тег действия;
-~ event_value — значение результата действияv
+~ event_value — значение результата действия
